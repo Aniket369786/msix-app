@@ -1,0 +1,14 @@
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+    Version="1.0.1.0"
+    Uri="https://aniket369786.github.io/msix-app/Notepad.appinstaller">
+  <MainPackage
+      Name="Notepad"
+      Publisher="CN=MyCompany"
+      Version="1.0.1.0"
+      ProcessorArchitecture="x64"
+      Uri="https://aniket369786.github.io/msix-app/Notepad_1.0.1.0_x64__5mj4rvhtbs6fg.msix" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="true" UpdateBlocksActivation="false" />
+  </UpdateSettings>
+</AppInstaller>
