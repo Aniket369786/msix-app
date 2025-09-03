@@ -7,8 +7,9 @@
       Publisher="CN=MyNotepadPublisher"
       Version="1.0.0.0"
       ProcessorArchitecture="x64"
-      Uri="https://<username>.github.io/<repo>/MyNotepadApp_1.0.0.0_x64.msix" />
+      Uri="https://<username>.github.io/<repo>/NotePad_1.0.0.0_x64__bf11fwcjnrb6p.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="true" UpdateBlocksActivation="false" />
   </UpdateSettings>
 </AppInstaller>
+
